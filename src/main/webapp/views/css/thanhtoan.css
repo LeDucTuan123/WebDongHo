@@ -1,0 +1,25 @@
+.form {
+
+}
+
+.form-heading {
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.form-controll {
+    margin-top: 10px;
+}
+
+.form-label {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.message {
+    color: #05c3ff;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 20px;
+}
